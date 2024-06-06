@@ -1,3 +1,6 @@
+#Created By - Harshit Arora
+#ROCK-PAPER-SCISSORS GAME
+
 import random
 def get_computer_choice():
     choices = ["rock", "paper", "scissors"]
